@@ -1,3 +1,0 @@
-#
-# agregar home personalizado que tiene una variable que se guarda para el proximo reinicio que se activa al hacer home en z, si esta variable esta como true
-# entonces se debera subir rapidamente el extrusor, es para que cuando se haga una parada emergencia porque se choco que deje de estar tocando la cama
